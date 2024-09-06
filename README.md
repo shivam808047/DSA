@@ -1,2 +1,2 @@
-# DSA
+# Bootcamp College
 College Training
