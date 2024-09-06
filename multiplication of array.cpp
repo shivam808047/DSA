@@ -5,9 +5,9 @@ using namespace std;
 
 int multiply(int array[], int n)
 {
-	int pro = 1;
+	int p = 1;
 	for (int i = 0; i < n; i++) 
-		pro = pro * array[i];
+		p = p * array[i];
 	return pro;
 }
 
